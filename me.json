@@ -1,0 +1,13 @@
+{
+  "fullName": "Trenton Wuerker",
+  "age": 22,
+  "height": "6'4",
+  "weight": "190lbs",
+  "favorites": {
+    "food": "Pizza",
+    "color": "blue",
+    "language": "JavaScript",
+    "movie": "A Clockwork Orange",
+    "show": "Avatar: The Last Airbender"
+  }
+}
